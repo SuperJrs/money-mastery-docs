@@ -96,6 +96,6 @@
 
 ## Versionamento
 
-| Data       | Descrição                           | Autor(es)                                                                                                                                                  |
-| :--------: | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 21/02/2023 | Modelagem inicial do banco de dados | [Daniel Viana](https://github.com/danielvimot), [Lameque Fernandes](https://github.com/lamequefernandes), e [Oziel Humasi](https://github.com/ozielhumasi) |
+| Data       | Versão | Descrição                           | Autor(es)                                                                                                                                                  |
+| :--------: | :---:  | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 21/02/2023 | 1.0    | Modelagem inicial do banco de dados | [Daniel Viana](https://github.com/danielvimot), [Lameque Fernandes](https://github.com/lamequefernandes), e [Oziel Humasi](https://github.com/ozielhumasi) |

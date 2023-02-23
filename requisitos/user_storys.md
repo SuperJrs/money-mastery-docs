@@ -51,6 +51,6 @@ O Controle financeiro serve para auxiliar o usuario a controlar e gerencias as s
 
 ## Versionamento
 
-| Data       | Descrição                   | Autor(es)                                                                                                                                                  |
-| :--------: | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 20/02/2023 | Levantamento dos requisitos | [Daniel Viana](https://github.com/danielvimot), [Lameque Fernandes](https://github.com/lamequefernandes), e [Oziel Humasi](https://github.com/ozielhumasi) |
+| Data       | Versão | Descrição                   | Autor(es)                                                                                                                                                  |
+| :--------: | :---:  | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 20/02/2023 | 1.0    | Levantamento dos requisitos | [Daniel Viana](https://github.com/danielvimot), [Lameque Fernandes](https://github.com/lamequefernandes), e [Oziel Humasi](https://github.com/ozielhumasi) |
